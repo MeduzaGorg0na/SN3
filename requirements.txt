@@ -1,0 +1,5 @@
+flask
+gunicorn
+aiogram
+openai
+python-dotenv
